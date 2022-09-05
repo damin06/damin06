@@ -10,5 +10,6 @@
 ---
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damin06)](https://github.com/damin06/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damin06&layout=compact)](https://github.com/damin06/github-readme-stats)
+
 
