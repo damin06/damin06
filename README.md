@@ -5,6 +5,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damin06&show_icons=true&theme=dark&locale=en" alt="damin06" /></p>
 <h3 align="center">A Student from Korea</h3>
 
+<h3 align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damin06&label=Profile%20views&color=0e75b6&style=flat" alt="damin06" /> </p>
 
 - 🌱 I’m currently learning **unity, C++**
