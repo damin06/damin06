@@ -12,7 +12,6 @@
 
 - 📝 I regularly write articles on [https://sayhello06.tistory.com/](https://sayhello06.tistory.com/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" height="30" width="40" /></a>
 </p>
