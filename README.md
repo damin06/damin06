@@ -25,6 +25,7 @@
 <h1 align="center">My Skills :muscle:</h1>
 <div align="center">
 	<img src="https://img.shields.io/badge/C++-007396?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
 </div>
 
 <div align=center>
