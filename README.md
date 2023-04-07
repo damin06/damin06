@@ -10,17 +10,20 @@
 <h3 align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=damin06&label=Profile%20views&color=0e75b6&style=flat" alt="damin06" /> </p>
 
- 
+ </div>
 
- 📝 I regularly write articles on
-  <div align="center"><a href="https://sayhello06.tistory.com/">
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=sayhello06&postId=default&theme=vue-dark)](https://github.com/loosie/github-readme-tistory-card)
+ <div align=center>
+	 📝 My Blog
+	</div> 
 	  <br/>
-	  </div>
+	 
+	 
+ [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sayhello06&theme=vue-dark)](https://easyhomputer.tistory.com)
+
 	
 
-
+ <br/>
 
 
 ---
@@ -34,9 +37,10 @@
 	 
 <div align=center>
 	
-<img src="https://img.shields.io/badge/C++-007396?style=flat&logo=C&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white" />
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 	
 </div>
 	
