@@ -14,22 +14,47 @@
 
  📝 I regularly write articles on
   <div align="center"><a href="https://sayhello06.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=#000000&link=https://sayhello06.tistory.com/"/>
+
 </a>
-</div>
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=#000000&link=https://sayhello06.tistory.com/"/>
+	  <br/>
+	  </div>
+	
+	
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=sayhello06&postId=default&theme=vue-dark)](https://github.com/loosie/github-readme-tistory-card)
+
+
 
 
 ---
 
 
 <h1 align="center">My Skills :muscle:</h1>
-<div align="center">
-	<img src="https://img.shields.io/badge/C++-007396?style=flat&logo=C&logoColor=white" />
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
-</div>
 
+	
+
+ <br/>
+	 
+<div align=center>
+	
+<img src="https://img.shields.io/badge/C++-007396?style=flat&logo=C&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white" />
+	
+</div>
+	
+ <br/>
+	
+	
 <div align=center>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damin06&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damin06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+	[![Solved.ac
+ko7787](http://mazassumnida.wtf/api/v2/generate_badge?boj=ko7787)](https://solved.ac/ko7787)
 </div>
+
+	
+
+	
+
+	 
