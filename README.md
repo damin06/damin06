@@ -10,18 +10,15 @@
 <h3 align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=damin06&label=Profile%20views&color=0e75b6&style=flat" alt="damin06" /> </p>
 
- 🌱 I’m currently learning 	<div align="center"> <img src="https://img.shields.io/badge/C++-#FFFFFF?style=flat-square&logo=C++&logoColor=white"/> 	</div>
+ 
 
  📝 I regularly write articles on
   <div align="center"><a href="https://sayhello06.tistory.com/">
 
-</a>
-  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=#000000&link=https://sayhello06.tistory.com/"/>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=sayhello06&postId=default&theme=vue-dark)](https://github.com/loosie/github-readme-tistory-card)
 	  <br/>
 	  </div>
 	
-	
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=sayhello06&postId=default&theme=vue-dark)](https://github.com/loosie/github-readme-tistory-card)
 
 
 
