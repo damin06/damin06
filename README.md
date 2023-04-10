@@ -19,7 +19,7 @@
 	  <br/>
 	 
 	 
- [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sayhello06&theme=vue-dark)](https://easyhomputer.tistory.com)
+ [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sayhello06&theme=vue-dark)](https://sayhello06.tistory.com)
 
 	
 
