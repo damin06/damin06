@@ -2,7 +2,7 @@
 
 ---
 
-<h1 align="center">A Student from Korea</h1>
+<h1 align="center">I'am a student</h1>
 
 <h3 align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damin06&show_icons=true&theme=dark&locale=en" alt="damin06" /></p>
