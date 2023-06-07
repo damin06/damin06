@@ -54,7 +54,7 @@
 ko7787](http://mazassumnida.wtf/api/v2/generate_badge?boj=ko7787)](https://solved.ac/ko7787)
 </div>
 
-	
+	[![toss](http://img.shields.io/badge/TOSS-1A52C2.svg?style=flat-square&logo=monoprix&link=https://soo-vely-dev.tistory.com/)](https://toss.me/%EC%98%81%EC%95%A4%EB%A6%AC%EC%B9%98%EB%A7%A8)
 
 	
 
